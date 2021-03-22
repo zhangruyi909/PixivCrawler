@@ -1,4 +1,4 @@
-# PixivSpider
+# PixivCrawler
 A selenium based network crawler.
 
 Pixiv (https://www.pixiv.net/) is hardly to save image by request type crawler, cause by separated front-end and back-end and the reCAPTCHA certify.
